@@ -1,0 +1,21 @@
+[project]
+name = "ai-safety-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "ScurgedStyx", email = "styx607@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "jupyterlab>=4.6.4",
+    "numpy>=2.5.4",
+    "torch>=2.14.1",
+]
+
+[project.scripts]
+ai-safety-learning = "ai_safety_learning:main"
+
+[build-system]
+requires = ["uv_build>=0.13.0,<0.14.0"]
+build-backend = "uv_build"
