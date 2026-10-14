@@ -11,3 +11,11 @@ Limits : a reward works in training but collusion happens when the model's real 
 
 
 How to verify, externally, that two models are really competing instead of faking ? 
+
+
+add a small external model that reads the output of each model and detects if they produce a result ?
+
+Research directions : 
+reducing opportunities for actor monitor collusion or jailbreaks, for example by editing, paraphrasing the actor's output before showing it to the monitor
+training better monitors, by generating for  bu generating synthetic data that realistcally captures sophisticated, malicious behaviour
+Developing monitoring schemes that work even when the actor has access to additional affordances, such as memory of previous episodes or the ability to pass messages between instances.
