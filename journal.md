@@ -7,3 +7,6 @@
 
 
 - **19/10/2026** | Duration : 140 min | Done : statistics,  Machine learning questions, what is precision, recall, metrics, f1socre, Auroc, | Tmr : à quoi sert chacun des trois jeux de données, et deux questions du diagnostic oral. Reading : Agentic Misalignment, 1st passage. 
+
+- **20/10/2026** | Duration : 45 min | Done : 3 different types of dataset, cross validation, scheduling | Tmr : Why AI Safety, why me ?
+. Reading : Agentic Misalignment, 1st passage. 
