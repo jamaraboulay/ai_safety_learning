@@ -10,3 +10,5 @@
 
 - **20/10/2026** | Duration : 45 min | Done : 3 different types of dataset, cross validation, scheduling | Tmr : Why AI Safety, why me ?
 . Reading : Agentic Misalignment, 1st passage. 
+
+- **21/10/2026** | Duration : 80 min | Done : rappel : auroc, recall, f1score, Why AI Safety ? | Tmr : pvt . Reading : Agentic Misalignment, 1st passage. 
